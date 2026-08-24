@@ -1,0 +1,4 @@
+alpaca-py
+python-dotenv
+pandas
+groq
